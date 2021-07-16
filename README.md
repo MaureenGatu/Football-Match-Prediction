@@ -1,6 +1,6 @@
 # Football Match Prediction
 
-This projected utilizes 2 Fifa datasets, one for ranking and anoe for match resuslts,
+This projected utilizes 2 Fifa datasets, one for ranking and ane for match resuslts,
 to try and predict the outcome of future matches between the 2 sets of teams.
 
 ## Description
