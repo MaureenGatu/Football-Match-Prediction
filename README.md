@@ -27,7 +27,7 @@ The model also ultilized random search in hyperparameter tuning.
 
 
 * Maureen Gatu  
-[@maureenwgatu@gmail.com]
+maureenwgatu@gmail.com
 
 
 
